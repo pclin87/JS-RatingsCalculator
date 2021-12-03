@@ -4,4 +4,5 @@ var collect_ratings = () => {
         sum: 0,
         average: 0
     }
+    let rating = 0
 }

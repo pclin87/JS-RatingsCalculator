@@ -1,5 +1,5 @@
 var collect_ratings = () => {
-    var ratings = {
+    const ratings = {
         count: 0,
         sum: 0,
         average: 0

@@ -1,0 +1,1 @@
+var collect_ratings = () => {}

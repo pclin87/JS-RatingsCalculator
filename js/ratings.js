@@ -12,4 +12,6 @@ var collect_ratings = () => {
         ratings.count += parseInt(element.value)
         ratings.sum += parseInt(element.value) * rating
     })
+
+    if(ratings.count != 0) {}
 }

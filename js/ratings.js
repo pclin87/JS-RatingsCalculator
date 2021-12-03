@@ -7,5 +7,5 @@ var collect_ratings = () => {
     let rating = 0
     const elements = document.querySelectorAll('.rating')
 
-    elements.forEach((element) => {})
+    elements.forEach((element) => {rating = element.id.replace('star').parseInt()})
 }
